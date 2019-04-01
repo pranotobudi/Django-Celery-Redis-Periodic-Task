@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 django = "*"
 flake8 = "*"
+celery = "*"
+redis = "*"
 
 [requires]
 python_version = "3.7"
