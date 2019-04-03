@@ -10,6 +10,11 @@ django = "*"
 flake8 = "*"
 celery = "*"
 redis = "*"
+gevent = "*"
+django-celerybeat-status = "*"
+django-celery-beat = "*"
+flower = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
